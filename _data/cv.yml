@@ -2,96 +2,84 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Payton Howell
+
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: University of Washington, Seattle Campus
+      year: 2023-Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Advisor: Aleksandr Aravkin
+        - title: M.S. Degree
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - July 2025
+    - title: B.A. 
+      institution: Sarah Lawrence College, NY
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
+        - Concentration: Mathematics, Physics
+
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Instructor of Record
+      institution: University of Washington, Seattle Campus
+      year: 2026
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - AMATH 383, Continuous Mathematical Modeling
+    - title: Co-Founder and Coordinator, A(MP)^2 
+      institution:  University of Washington, Seattle Campus
+      year: 2024 - now
       description:
-        - Description 1.
-        - Description 2.
+        - Applied Mathematics Peer Mentorship Program. 
+        - Facilitate application process and manage group events. 
+        - Mentor undergraduates and act as resource to graduate student mentors.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Prseident SIAMUW Student Chapter
+      institution:  University of Washington, Seattle Campus
+      year: 2024 - 2026
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+    - title: Departmental Librarian
+      institution:  University of Washington, Seattle Campus
+      year: 2023 - 2024
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Organizer
+      institution:  University of Washington, Seattle Campus
+      year: 2024
+      description: 
+      - Lead math activities for multiple visiting 8th grade classes with varying math background. 
+      - Coordinate with other organizers and graduate students to plan and hold event.
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2025
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - SIAM Leadership Award
+    - year: 2024
       items:
-        - Max Planck Medal
+        - Carl S. pearson Community Award
+    - year: 2023
+      items: 
+        - Edward Coogan prize for Mathematics & Science
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Kalman Smoothing
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Model-Agnostic Schemes
+    - title: Optimization
       items:
-        - Description 1.
-        - Description 2.
+        - Convex Optimization
+        - Binary Integrer Programming
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Dance, Reading, D&D
