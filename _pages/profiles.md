@@ -15,10 +15,10 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Lewis Hall 222</p>
-      <p>University fo washington</p>
+      <p>University of Washington</p>
       <p>Seattle Campus</p>
   - align: left
-    image: profile_aravkin_1.jpg
+    image: profile_aravkin_1.png
     content: about_sasha.md
     image_circular: false # crops the image to make it circular
 
