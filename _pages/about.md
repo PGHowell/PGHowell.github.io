@@ -18,7 +18,7 @@ profile:
 #social: true # includes social icons at the bottom of the page
 ---
 
-I'm Payton Howell and I'm a PhD Candidate in the Department of Applied Mathematics at the University of Washington. My advisor is Aleksandr Aravkin. 
+I'm Payton Howell and I'm a PhD Candidate in the Department of Applied Mathematics at the University of Washington. My advisor is [Aleksandr Aravkin](https://uw-amo.github.io/saravkin/). 
 
 My research interests are in Optimization and Kalman Smoothing. Currently I work on Model-Agnostic Kalman Smoothing Methods.
 
