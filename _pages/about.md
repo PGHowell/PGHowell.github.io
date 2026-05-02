@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://amath.washington.edu/'>University of Washington</a>
+subtitle: <a href='https://amath.washington.edu/people/payton-howell'>University of Washington</a>
 
 profile:
   align: right
@@ -18,9 +18,10 @@ profile:
 #social: true # includes social icons at the bottom of the page
 ---
 
-I'm Payton Howell and I'm a PhD Candidate in the Department of Applied Mathematics at the University of Washington. My advisor is Sasha Aravkin. 
+I'm Payton Howell and I'm a PhD Candidate in the Department of Applied Mathematics at the University of Washington. My advisor is Aleksandr Aravkin. 
 
-My research interestsare in Optimization and Kalman Smoothing. Currently I work on Model-Agnostic Kalman Smoothing Methods.
+My research interests are in Optimization and Kalman Smoothing. Currently I work on Model-Agnostic Kalman Smoothing Methods.
 
 Outside of mathematics I enjoy dancing and reading. 
+
 

@@ -14,15 +14,12 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Lewis Hall 222</p>
+      <p>University fo washington</p>
+      <p>Seattle Campus</p>
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: profile_aravkin_1.jpg
+    content: about_sasha.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+
 ---
